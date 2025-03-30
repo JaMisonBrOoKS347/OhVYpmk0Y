@@ -11,7 +11,6 @@ comment:                  # this is a top-level key
   require_base: false        # [true :: must have a base report to post]
   require_head: true       # [true :: must have a head report to post]
   hide_project_coverage: false # [true :: only show coverage on the git diff]
-component_management:
   individual_components:
     - component_id: sentinel-adapter  # this is an identifier that should not be changed
       name: sentinel-adapter  # this is a display name, and can be changed freely
