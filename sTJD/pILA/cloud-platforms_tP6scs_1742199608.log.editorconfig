@@ -311,7 +311,6 @@ dotnet_diagnostic.IDE0044.severity = warning
 
 # IDE0051: Remove unused private members
 dotnet_diagnostic.IDE0051.severity = warning
-
 # IDE0055: All formatting rules
 dotnet_diagnostic.IDE0055.severity = suggestion
 
